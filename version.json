@@ -1,5 +1,5 @@
 { 
   "version": "5.2",
   "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-2_CWbackup_29_03.zip",
-  "updates": "- test1<br>- test 2<br>- test3"
+  "updates": "- test3<br>- test 2<br>- test1"
 }
