@@ -1,7 +1,6 @@
 { 
   "version": "5.2.1",
   "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-2-1_CWbackup_01_04.zip",
-  "updates": ["• Fixed segment insertion across all modules. It finally behaves like it should have from the beginning",
-    "• Added update changelog display when a new version is available. Now you actually know what changed", "• Improved the page reload notification UI. Less ugly, slightly more helpful"
-  ]
+  "updates": ["• Скорректировано линкование в текстах правил в связи с некоторой импровизацией таджикского переводчика",
+    "• Исправлен баг в обработке коротких промо-файлов"]
 }
