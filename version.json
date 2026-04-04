@@ -3,5 +3,5 @@
   "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-2-2_CWbackup_04_04.zip",
   "updates": ["– Скорректировано линкование в текстах правил в связи с некоторой импровизацией таджикского переводчика",
   "– Исправлен баг с обработкой коротких промо-файлов",
-  "- Исправлен баг в обработке full description в файлах промо"]
+  "- Исправлен баг с обработкой full description в файлах промо"]
 }
