@@ -1,6 +1,6 @@
 { 
   "version": "5.3",
-  "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-2-2_CWbackup_04_04.zip",
+  "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-3_CWbackup_05_04.zip",
   "updates": ["1. Скорректировано линкование в тж текстах правил в связи с некоторой импровизацией таджикского переводчика",
   "2. Исправлен баг с обработкой коротких файлов промо",
   "3. Исправлен баг с обработкой full description в некоторых файлах промо",
