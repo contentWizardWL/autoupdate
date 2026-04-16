@@ -1,7 +1,6 @@
 { 
-  "version": "5.4.1",
-  "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-4-1_CWbackup_08_04.zip",
-  "updates": ["1. Изменён принцип работы Pretty Amount: теперь запускать нужно с листа с таблицей, и используются именно данные с активного листа.",
-  "2. Реализована возможность добавлять GEO во все модули в новом BO: достаточно вставить их из таски в формате 'AZ, TR, KZ, UZ'."
+  "version": "5.4.2",
+  "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-4-2_CWbackup_08_04.zip",
+  "updates": ["1. Добавлены кнопки в сегменты: “Excluded Casino” и “Excluded Sport” — стандартные exclude сегменты для турниров и квестов."
   ]
 }
