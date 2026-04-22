@@ -1,6 +1,6 @@
 { 
-  "version": "5.4.2",
-  "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-4-2_CWbackup_08_04.zip",
-  "updates": ["1. Добавлены кнопки в сегменты: “Excluded Casino” и “Excluded Sport” — стандартные exclude сегменты для турниров и квестов."
+  "version": "5.4.3",
+  "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-4-3_CWbackup_22_04.zip",
+  "updates": ["Bug fixes"
   ]
 }
