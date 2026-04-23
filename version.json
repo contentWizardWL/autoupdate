@@ -1,6 +1,8 @@
 { 
-  "version": "5.4.3",
-  "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-4-3_CWbackup_22_04.zip",
-  "updates": ["Bug fixes"
+  "version": "5.5",
+  "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/5-5_CWbackup_23_04",
+  "updates": ["1. Добавлена возможность вставлять ID игр в модуль турнира простым копированием списка.",
+    "2. Текстовое значение количества пользователей в сегментах больше не влияет на корректную работу парсинга и плагина.",
+    "3. Добавлен новый пункт правил: Sport 2.19."
   ]
 }
