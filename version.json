@@ -1,7 +1,7 @@
 { 
   "version": "6.2.3",
   "download": "https://raw.githubusercontent.com/contentWizardWL/autoupdate/refs/heads/main/6-2-3_CWbackup_21_05.zip",
-  "updates": ["COM bugs fixing",
+  "updates": ["COM bugs fixed",
     "1. Исправлено форматирование валют переменных под заданный формат.",
     "2. Добавлен пропуск ручной нумерации в short rules турниров.",
     "3. Улучшен парсинг текстов турниров для игнорирования лишних слов."
