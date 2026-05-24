@@ -1,6 +1,6 @@
 { 
   "version": "6.3",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.3/6-3_CWbackup_22_05.zip",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.3/6-3_CWbackup_24_05.zip",
   "updates": [
     "1. Добавлена поддержка текстов провайдерских турниров. Текст со всеми правилами автоматически подтягивается из документа. При запуске необходимо выбрать тип турнира.",
     "2. Модуль промо теперь также корректно обрабатывает SMM-промо.",
