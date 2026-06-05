@@ -2,7 +2,7 @@
   "version": "6.3.3",
   "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.3.3/6-3-3_CWbackup_05_06.zip",
   "updates": [
-    "Добавлена автоматическая инициализация интерфейса в зависимости от страницы, на которой открыт плагин. Теперь нужный модуль выбирается автоматически: слайдеры - Slider -> Text, турниры - Tournament -> Page, переменные - Variables, адвент - Advent, Google sheets - Sheet map, во всех активностях на вкладке Audience - Segments, без необходимости ручного переключения.",
+    "Добавлена автоматическая инициализация интерфейса в зависимости от страницы, на которой открыт плагин. Теперь нужный модуль выбирается автоматически:\nслайдеры - Slider -> Text\nтурниры - Tournament -> Page\nпеременные - Variables\nадвент - Advent\nGoogle sheets - Sheet map\nво всех активностях на вкладке Audience - Segments, без необходимости ручного переключения.",
     "Исправлен ряд багов",
     "Напоминание: расширение не обновляется автоматически. Для получения актуальной версии необходимо вручную установить новый релиз. <a target='_blank' href='https://docs.google.com/document/d/1XZeaPYAIQYVmyjj15dgXGaUAf9nTcYggtXdDhrutCCQ/edit?tab=t.z31vab5d8qzw#heading=h.16lcq3v8ghyu'>Инструкцию по обновлению</a> можно найти в руководстве."
   ]
