@@ -1,9 +1,7 @@
 { 
-  "version": "6.3.3",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.3.3/6-3-3_CWbackup_05_06.zip",
+  "version": "6.3.4",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.3.4/6-3-4_CWbackup_14_06.zip",
   "updates": [
-    "Добавлена автоматическая инициализация интерфейса в зависимости от страницы, на которой открыт плагин. Соответствующий модуль выбирается автоматически в слайдерах, турнирах, переменных, адвенте, Google sheets, а так же во всех активностях на вкладке Audience, без необходимости ручного переключения.",
-    "Исправлен ряд багов",
-    "Напоминание: расширение не обновляется автоматически. Для получения актуальной версии необходимо вручную установить новый релиз. <a target='_blank' href='https://docs.google.com/document/d/1XZeaPYAIQYVmyjj15dgXGaUAf9nTcYggtXdDhrutCCQ/edit?tab=t.z31vab5d8qzw#heading=h.16lcq3v8ghyu'>Инструкцию по обновлению</a> можно найти в руководстве."
+    "bugs fixed"
   ]
 }
