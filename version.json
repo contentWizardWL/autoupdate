@@ -1,6 +1,6 @@
 { 
-  "version": "6.3.4",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.3.4/6-3-4_CWbackup_14_06.zip",
+  "version": "6.3.5",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.3.5/6-3-5_CWbackup_21_06.zip",
   "updates": [
     "bugs fixed"
   ]
