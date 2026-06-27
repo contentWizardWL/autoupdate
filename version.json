@@ -1,7 +1,8 @@
 { 
-  "version": "6.3.5",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.3.5/6-3-5_CWbackup_21_06.zip",
+  "version": "6.4",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.4/6-4_CWbackup_27_06.zip",
   "updates": [
-    "bugs fixed"
+    "1. Добавлена полностью автоматическия сихнронизация карты правил в плагине с файлом в Google Sheets",
+    "2. Для COM проэкта в Sheet map теперь отображается только 1 кнопка для парсинга таблиц"
   ]
 }
