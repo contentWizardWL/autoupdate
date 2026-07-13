@@ -1,8 +1,7 @@
 { 
-  "version": "6.4.1",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.4.1/6-4-1_CWbackup_06_07.zip",
+  "version": "6.4.2",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.4.2/6-4-2_CWbackup_11_07.zip",
   "updates": [
-    "1. Добавлена кнопка для ручной синхронизации с таблицей правил",
-    "2. Плагин теперь так же работает с .docx файлами.\nИз-за необходимости дополнительной конвертации обработка таких файлов может занимать немного больше времени."
+    "1. Исправлен баг с обработкой файлов .docx в модуле промо"
   ]
 }
