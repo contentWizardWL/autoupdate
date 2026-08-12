@@ -1,7 +1,9 @@
 { 
-  "version": "6.4.2",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.4.2/6-4-2_CWbackup_11_07.zip",
+  "version": "6.4.3",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.4.3/6-4-3_CWbackup_11_08.zip",
   "updates": [
-    "1. Исправлен баг с обработкой файлов .docx в модуле промо"
+    "1. Исправлена проблема, из-за которой в файлах с AI-переводом отображались русские кнопка и название пункта «Правила» в турнирах.",
+    "2. Добавлены кнопки для суахили.",
+    "3. Добавлены стандартные эксклюд-сегменты для Африки."
   ]
 }
