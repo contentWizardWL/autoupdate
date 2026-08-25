@@ -1,6 +1,6 @@
 { 
   "version": "6.5",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.5/6-5_CWbackup_15_08.zip",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.5/6-5_CWbackup_25_08.zip",
   "updates": [
     "1. Установка дат для Advent теперь работает как в старом UI, так и в пиньяте.",
     "2. Исправлено добавление поинтов и минимальной ставки в турнирах для пиньяты.",
