@@ -1,10 +1,7 @@
 { 
-  "version": "6.5",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.5/6-5_CWbackup_25_08.zip",
+  "version": "6.5.1",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.5.1/6-5-1_CWbackup_31_08.zip",
   "updates": [
-    "1. Установка дат для Advent теперь работает как в старом UI, так и в пиньяте.",
-    "2. Исправлено добавление поинтов и минимальной ставки в турнирах для пиньяты.",
-    "3. После установки новой версии плагина больше не требуется перезагружать админку.",
-    "4. Добавлен статус-бар для отображения информационных сообщений или ошибок во время работы плагина."
+    "Advent page parser updated"
   ]
 }
