@@ -1,7 +1,10 @@
 { 
-  "version": "6.5.1",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.5.1/6-5-1_CWbackup_31_08.zip",
+  "version": "6.6",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.6/6-6_CWbackup_06_09.zip",
   "updates": [
-    "Advent page parser updated"
+    "1. Добавлен модуль «Quest», позволяющий добавлять суммы валют в настройках квестов путем вставки строк из задачи.",
+    "2. Модуль Games ID в турнирах теперь доступен на «Пиньяте».",
+    "3. Валидация валют теперь выполняется не только по буквенным кодам, но и по символам валют.",
+    "4. Оптимизирована работа некоторых функций плагина."
   ]
 }
