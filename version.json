@@ -1,10 +1,7 @@
 { 
-  "version": "6.6",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.6/6-6_CWbackup_06_09.zip",
+  "version": "6.7",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v6.7/6-7_CWbackup_08_09.zip",
   "updates": [
-    "1. Добавлен модуль «Quest», позволяющий добавлять суммы валют в настройках квестов путем вставки строк из задачи.",
-    "2. Модуль Games ID в турнирах теперь доступен на «Пиньяте».",
-    "3. Валидация валют теперь выполняется не только по буквенным кодам, но и по символам валют.",
-    "4. Оптимизирована работа некоторых функций плагина."
+    "Исправлена работа модулей 'Segments' и 'GEO' на пиньяте"
   ]
 }
