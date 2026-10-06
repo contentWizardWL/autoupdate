@@ -1,6 +1,6 @@
 { 
-  "version": "6.7.1",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v7-2-1/content-wizard-v7-2-1.zip",
+  "version": "7.2.0",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v-7-2-0/content-wizard-v-7-2-0.zip",
   "updates": [
     "Добавлена верификация пользователей и работа с файлами от имени текущего пользователя.",
     "Добавлен модуль Quiz для заполнения контента квизов.",
