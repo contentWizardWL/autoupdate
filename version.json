@@ -1,9 +1,7 @@
 { 
-  "version": "7.2.1",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v-7-2-1/content-wizard-v-7-2-1.zip",
+  "version": "7.2.2",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v7-2-2/content-wizard-v7-2-2.zip",
   "updates": [
-    "1. Добавлена функция массовой замены текста во всех основных модулях с возможностью выбора локалей.",
-    "2. Для COM, добавлены локали и валюты KG, TJ.",
-    "3. Исправлены баги."
+    "1. Доработка функции VAR replace"
   ]
 }
