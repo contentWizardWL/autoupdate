@@ -1,7 +1,8 @@
 { 
-  "version": "7.2.2",
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v7-2-2/content-wizard-v7-2-2.zip",
+  "version": "7.2.3",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v7-2-3/content-wizard-v7-2-3.zip",
   "updates": [
-    "1. Доработка функции VAR replace"
+    "1. Адаптирован модуль сегментов под временные сложности с турнирами.",
+    "2. Правки + опитимизации"
   ]
 }
