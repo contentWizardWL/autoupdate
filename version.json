@@ -9,5 +9,7 @@
     "3. Адаптирована работа с квестами под изменения в соответствующем модуле админ-панели.",
     "4. Исправлена работа сurrencies для COM в квестах.",
     "5. Небольшие доработки и исправления в других модулях."
-  ]
+  ],
+  "reserve_ver": "7.3",
+  "reserve_download": "https://github.com/contentWizardWL/autoupdate/releases/download/v7-3/content-wizard-v7-3.zip"
 }
