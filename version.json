@@ -1,6 +1,6 @@
 { 
   "version": "7.3",
-  "licence": [],
+  "licence": ['isWL'],
   "users": [],
   "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v7-3/content-wizard-v7-3.zip",
   "updates": [
