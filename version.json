@@ -1,7 +1,7 @@
 { 
   "version": "7.3",
   "licence": ["isWL"],
-  "users": ["o.bloshenkov@redcore.grou"],
+  "users": ["o.bloshenkov@redcore.group"],
   "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v7-3/content-wizard-v7-3.zip",
   "updates": [
     "1. Добавлена массовая замена переменных, автоматическое сохранение и история замен в модуле VAR Replace.",
