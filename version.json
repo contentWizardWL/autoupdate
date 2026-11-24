@@ -1,13 +1,10 @@
 { 
-  "version": "8.1",
+  "version": "8.2",
   "licence": ["isWL", "isCOM"],
   "users": [],
-  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v8-1/content-wizard-v8-1.zip",
+  "download": "https://github.com/contentWizardWL/autoupdate/releases/download/v8-2/content-wizard-v8-2.zip",
   "updates": [
-    "1. Добавлена галлерея",
-    "2. Модуль VAR сheck перенесён в боковую панель",
-    "3. Скрипт для работы с регулярными турнирами адаптирован под новый стандарт.",
-    "4. Небольшие доработки и исправления."
+    "Advent bug fixed"
   ],
   "reserve_v": "",
   "reserve_d": "",
